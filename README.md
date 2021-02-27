@@ -1,2 +1,2 @@
 # AlgoPractice
-Algorithms Practice
+Algorithms Practice 
